@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.kaikeba.com:web_dev/security-lesson.git"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -18,7 +14,6 @@
     "chalk": "^2.4.2",
     "co-wechat": "^2.3.0",
     "co-wechat-oauth": "^2.0.1",
-    "crypto": "^1.0.1",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.4.0",
     "koa": "^2.6.2",
